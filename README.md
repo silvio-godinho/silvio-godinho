@@ -17,15 +17,14 @@
     <img align = "center" alt = "aws" src = "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> 
     <img align = "center" alt = "azure" src = "https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">   
     <img align = "center" alt = "gcp" src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> 
-    <img align = "center" alt = "mysql" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
-">     
-    <img align = "center" alt = "react" src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-">
+    <img align = "center" alt = "mysql" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">     
+    <img align = "center" alt = "react" src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div><br/>
 
 Apaixonado por estudar e buscando se desenvolver todos os dias !!!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvio-godinho&layout=compact)](https://github.com/silvio-godinho/github-readme-stats)
+
 
 
 <!--

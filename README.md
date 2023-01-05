@@ -21,7 +21,7 @@
     <img align = "center" alt = "react" src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div><br/>
 
-Apaixonado por estudar e buscando se desenvolver todos os dias !!!
+Apaixonado por estudar e buscando se desenvolver todos os dias!!!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvio-godinho&layout=compact)](https://github.com/silvio-godinho/github-readme-stats)
 
